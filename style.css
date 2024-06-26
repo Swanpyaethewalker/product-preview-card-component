@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 :root {
   --background-color: #f2eae2;
   --deep-aquamarine: #3d8168;
@@ -7,7 +8,6 @@
   --auro-metal-saurus: #1c232b;
 }
 
-@import url("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 html,
 body {
   height: 100%;
