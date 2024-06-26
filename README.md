@@ -32,7 +32,7 @@ This is a solution to [Product preview card component challenge on Frontend Ment
 ## Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-O7THb7gEZ6)
-- Live Site URL: [Vercel](https://social-links-profile-front-end-mentor-challenge.vercel.app/)
+- Live Site URL: [Vercel](https://product-preview-card-component-psi-liard.vercel.app/)
 
 ### Built with
 
